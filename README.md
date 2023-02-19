@@ -25,7 +25,7 @@ The following five sampling techniques were used in this project:
 
 The accuracy of each sampling method for five distinct machine learning models is displayed in the table below. A balanced version of the original unbalanced dataset was created using random over- and under-sampling approaches and used as the basis for all models.
 
-![Screenshot](s1.png)
+![Screenshot](s1.jpg)
 
 Based on these results, it can be concluded that best results are obtained when Cluster Sampling is used and Simple random sampling performs the worst on all five models. The other sampling techniques have varying performance depending on the model. The model which gives the best accuracy for all 5 sampling techniques is Random Forest Classifier.
 
