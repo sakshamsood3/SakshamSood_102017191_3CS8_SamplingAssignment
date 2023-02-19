@@ -1,10 +1,4 @@
-# Comparing Differen Sampling Techniques for 5 Machine Learning Models
-
-## Introduction
-
-# Comparing Sampling Techniques for 5 Machine Learning Models
-
-## Introduction
+# Comparing Different Sampling Techniques for 5 Machine Learning Models
 
 The aim of this project is to investigate the efficiency of various sampling methods in producing a balanced dataset for a machine learning model. The initial dataset is imbalanced, and as such, random over-sampling and under-sampling techniques are employed to create a balanced dataset. The resulting balanced dataset is then subjected to five distinct sampling techniques, and the resulting samples' accuracies are compared across five different machine learning models.
 
